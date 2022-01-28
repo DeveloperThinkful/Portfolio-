@@ -1,5 +1,5 @@
 # Portfolio
 
-##AboutMe
+## AboutMe
 
-##Special Thanks 
+## Special Thanks 
