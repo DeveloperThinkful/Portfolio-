@@ -1,7 +1,8 @@
+
 a:hover {
   color: pink;  
 }
-
+/* background color  */
 body {
   background: white; 
 }
@@ -17,7 +18,7 @@ nav {
   
   
 }
-
+/* text alignment  */
 p {
   text-align:left;
 }
